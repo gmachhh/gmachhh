@@ -78,7 +78,7 @@ I'm using this project to strengthen my knowledge of **C#, backend development, 
 
 | **Education / Experience** | **Institution / Role** |
 | -------------------------- | ---------------------- |
-| 🎓 **computer Science** | Universidade Federal do ABC — Expected graduation: 2030 |
+| 🎓 **Computer Science** | Universidade Federal do ABC — Expected graduation: 2030 |
 | 💻 **IT Technician for Internet Development** | Instituto Federal de São Paulo (IFSP) — Completed in 2025 |
 | 🛠️ **Administrative Assistant** | Sodexo do Brasil Comercial S.A |
 
