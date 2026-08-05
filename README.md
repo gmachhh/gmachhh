@@ -1,154 +1,102 @@
-## 👋 About Me
 
-- 🔭 Currently looking for a **Back-end Developer** opportunity.
-- 🌱 I’m learning **Java**, **Python** and improving my skills in **C#**.
-- 📚 I have experience with:
-  - Object-Oriented Programming (OOP)
-  - Git & GitHub
-  - SQL & MySQL basics
-  - API integration
-- 🧠 Always exploring new tools and technologies.
-- 🤔 I’m open to collaborating on projects where I can learn and contribute.
-- ✍️ I recently completed the **Bootcamp TONNIE - Java and IA in Europe**.
-- 💬 Ask me about **Java basics**, **prompt engineering**, and how to start in back-end development.
-- ⚡ Fun fact: I love connecting tech concepts with pop culture references like *Rick and Morty*!
+
+I'm a **Back-end Developer in development**, focused on building practical solutions and continuously improving my skills through projects, courses, and hands-on experience.
+
+- 🔭 Currently looking for opportunities as a **Back-end Developer**.
+- 💻 Currently studying and improving my skills in **Java, Python and C#**.
+- 🚀 Interested in **Back-end Development, APIs, automation, databases and software architecture**.
+- 🧠 Strong interest in **Object-Oriented Programming (OOP)** and problem solving.
+- 🗄️ Familiar with **SQL and MySQL**, including basic database modeling and queries.
+- 🔗 Experience with **APIs, Git and GitHub**.
+- 🛠️ Currently building projects to strengthen my knowledge of **Java, C# and web development**.
+- 🤖 Interested in **Artificial Intelligence and Prompt Engineering**, exploring how AI can be applied to software development.
+- 📚 Recently completed the **Bootcamp TONNIE - Java and IA in Europe**.
+- 🌱 Always learning new technologies, tools and development practices.
+- 🤝 Open to collaborating on projects where I can **learn, contribute and grow alongside other developers**.
+- 💬 Feel free to ask me about **Java fundamentals, OOP, APIs, Git/GitHub, Prompt Engineering or my journey into Back-end Development**.
+- ⚡ Fun fact: I enjoy connecting **technology, programming and pop culture**, especially references from *Rick and Morty*.
 - 😄 Pronouns: **he/him**
-- 🌐 Languages: Portuguese Brazil (native), English (intermediate)
+- 🌎 Languages: **Portuguese 🇧🇷 (Native) | English 🇺🇸 (Intermediate)**
 
-<br/>
+---
 
-##
+## 🛠️ Technologies & Tools
 
-<br/>
-<br/>
+### 💻 Programming Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Mysql" 
-    title="Mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 🗄️ Databases
 
-<br/>
-<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🔧 Tools & Technologies
 
-  
-  ##
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br/>
+### 🌐 Development
 
- 
-<div> 
-  <a href="https://www.instagram.com/erickgmachz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "erick2006mach@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erick-machado-204ab1274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+- REST APIs
+- Object-Oriented Programming
+- Backend Development
+- Database Fundamentals
+- API Integration
+- Automation
+- Problem Solving
+
+---
+
+## 🚀 What I'm Currently Working On
+
+I'm currently focused on building practical projects that allow me to apply what I'm learning in real development scenarios.
+
+### 💰 ControleFinanceiro
+
+A financial management web application developed with **C#, ASP.NET Core MVC, Entity Framework Core and MySQL**.
+
+The project includes:
+
+- 📊 Financial dashboard
+- 💵 Income and expense management
+- 🧾 Transaction CRUD
+- 🏷️ Category management
+- 🔎 Transaction filters
+- 📈 Financial charts
+- 🌙 Dark/Light mode
+- 🗄️ MySQL database
+- 🏗️ MVC architecture
+
+I'm using this project to strengthen my knowledge of **C#, backend development, databases, MVC architecture and web applications**.
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+ ├── Object-Oriented Programming
+ ├── Data Structures
+ ├── Algorithms
+ └── Backend Development
+
+Python
+ ├── Automation
+ ├── APIs
+ └── Problem Solving
+
+C#
+ ├── ASP.NET Core
+ ├── Entity Framework Core
+ ├── MVC
+ └── Database Integration
+
+Backend
+ ├── REST APIs
+ ├── SQL
+ ├── MySQL
+ └── Software Architecture
