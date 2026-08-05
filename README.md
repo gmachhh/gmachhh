@@ -48,30 +48,15 @@ I'm a **Back-end Developer in development**, focused on building practical solut
 - API Integration
 - Automation
 - Problem Solving
-
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 Featured Projects
 
-I'm currently focused on building practical projects that allow me to apply what I'm learning in real development scenarios.
+| **Project** | **Description** | **Technologies** | **Highlights** |
+|---|---|---|---|
+| 💰 **[ControleFinanceiroV2](https://github.com/gmachhh/ControleFinanceiroV2)** | Web application for personal financial management, focused on organizing income, expenses and financial data. | `C#` `ASP.NET Core` `Entity Framework Core` `MySQL` `JavaScript` `Chart.js` | 📊 Dashboard • 🧾 CRUD • 🔎 Filters • 📈 Charts • 🌙 Dark Mode |
+| 📚 **[eBook](https://github.com/gmachhh/eBook)** | Web project developed as part of my learning journey, focused on digital content and frontend development. | `HTML` `CSS` `JavaScript` | 🌐 Web Development • 🎨 UI • 📱 Responsive Design • 🔧 Git |
 
-### 💰 ControleFinanceiro
-
-A financial management web application developed with **C#, ASP.NET Core MVC, Entity Framework Core and MySQL**.
-
-The project includes:
-
-- 📊 Financial dashboard
-- 💵 Income and expense management
-- 🧾 Transaction CRUD
-- 🏷️ Category management
-- 🔎 Transaction filters
-- 📈 Financial charts
-- 🌙 Dark/Light mode
-- 🗄️ MySQL database
-- 🏗️ MVC architecture
-
-I'm using this project to strengthen my knowledge of **C#, backend development, databases, MVC architecture and web applications**.
 
 ---
 ## 🎓 Education & Experience
@@ -93,8 +78,6 @@ My academic and professional experiences have given me practical exposure to:
 - ⚙️ C# and ASP.NET Core
 - 🔗 API integration
 - 🗄️ SQL and MySQL
-- 🛠️ Technical support and troubleshooting
-- 🤖 Artificial Intelligence and Prompt Engineering
 - 🔧 Hardware and digital fabrication
 
 > **Building a strong foundation to become a Back-end Developer, with a focus on Java and continuous learning.** 🚀## 🎓 Education & Experience
