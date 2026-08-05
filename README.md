@@ -99,29 +99,6 @@ My academic and professional experiences have given me practical exposure to:
 
 > **Building a strong foundation to become a Back-end Developer, with a focus on Java and continuous learning.** 🚀## 🎓 Education & Experience
 
-| **Education / Experience** | **Institution / Role** |
-| -------------------------- | ---------------------- |
-| 🎓 **Systems Analysis and Development** | Universidade Cruzeiro do Sul — Expected graduation: 2027 |
-| 💻 **IT Technician for Internet Development** | Instituto Federal de São Paulo (IFSP) — Completed in 2025 |
-| 🛠️ **Corporate Technical Support Analyst** | São Paulo State Department of Education |
-| 🤖 **Digital Fabrication Intern** | FabLab — Developed the **Baymax Assistant** using Python, Raspberry Pi and OpenAI API integration |
-
-### 🚀 Professional Development
-
-My academic and professional experiences have given me practical exposure to:
-
-- 💻 Software development
-- ☕ Java and Object-Oriented Programming
-- 🐍 Python and automation
-- ⚙️ C# and ASP.NET Core
-- 🔗 API integration
-- 🗄️ SQL and MySQL
-- 🛠️ Technical support and troubleshooting
-- 🤖 Artificial Intelligence and Prompt Engineering
-- 🔧 Hardware and digital fabrication
-
-> **Building a strong foundation to become a Back-end Developer, with a focus on Java and continuous learning.** 🚀
-
 ## 📚 Currently Learning
 
 ```text
