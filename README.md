@@ -78,10 +78,10 @@ I'm using this project to strengthen my knowledge of **C#, backend development, 
 
 | **Education / Experience** | **Institution / Role** |
 | -------------------------- | ---------------------- |
-| 🎓 **Systems Analysis and Development** | Universidade Cruzeiro do Sul — Expected graduation: 2027 |
+| 🎓 **computer Science** | Universidade Federal do ABC — Expected graduation: 2030 |
 | 💻 **IT Technician for Internet Development** | Instituto Federal de São Paulo (IFSP) — Completed in 2025 |
-| 🛠️ **Corporate Technical Support Analyst** | São Paulo State Department of Education |
-| 🤖 **Digital Fabrication Intern** | FabLab — Developed the **Baymax Assistant** using Python, Raspberry Pi and OpenAI API integration |
+| 🛠️ **Administrative Assistant** | Sodexo do Brasil Comercial S.A |
+
 
 ### 🚀 Professional Development
 
