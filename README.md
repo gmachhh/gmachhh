@@ -1,4 +1,6 @@
+# Hi, I'm Erick Machado 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://gmachhh.github.io/PortfolioErickMachado/)
 
 I'm a **Back-end Developer in development**, focused on building practical solutions and continuously improving my skills through projects, courses, and hands-on experience.
 
@@ -33,10 +35,20 @@ I'm a **Back-end Developer in development**, focused on building practical solut
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🌐 Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ### 🔧 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🌐 Development
@@ -47,16 +59,20 @@ I'm a **Back-end Developer in development**, focused on building practical solut
 - Database Fundamentals
 - API Integration
 - Automation
+- Unit Testing & CI
 - Problem Solving
+
 ---
 
 ## 🚀 Featured Projects
 
 | **Project** | **Description** | **Technologies** | **Highlights** |
 |---|---|---|---|
+| ✅ **[gerenciador-de-tarefas](https://github.com/gmachhh/gerenciador-de-tarefas)** | Command-line task manager built with a layered architecture (model, service, repository, UI), with priorities, deadlines, filters, statistics and file persistence. | `Java` `Maven` `JUnit` `GitHub Actions` | 🧱 Layered Architecture • 🧪 33 Unit Tests • ⚙️ CI • 🌊 Streams & Records • 💾 Atomic File Saving |
+| 📦 **[almoxarifado-digital](https://github.com/gmachhh/almoxarifado-digital)** | Real-world mobile web app that replaced paper-based inventory control at a construction & electrical company's warehouse. | `Google Apps Script` `JavaScript` `HTML` `CSS` `Google Sheets` | ✍️ Digital Signature • 🏷️ QR Codes • 📄 PDF Reports • 📧 Automated Emails • 🔐 Login & PIN |
 | 💰 **[ControleFinanceiroV2](https://github.com/gmachhh/ControleFinanceiroV2)** | Web application for personal financial management, focused on organizing income, expenses and financial data. | `C#` `ASP.NET Core` `Entity Framework Core` `MySQL` `JavaScript` `Chart.js` | 📊 Dashboard • 🧾 CRUD • 🔎 Filters • 📈 Charts • 🌙 Dark Mode |
+| 🌐 **[PortfolioErickMachado](https://github.com/gmachhh/PortfolioErickMachado)** | My personal portfolio website, presenting my projects, skills and résumé. **[🔗 Live demo](https://gmachhh.github.io/PortfolioErickMachado/)** | `HTML` `CSS` `JavaScript` `GitHub Pages` | 📱 Responsive Design • 📄 Résumé Download • 🚀 Deployed Online |
 | 📚 **[eBook](https://github.com/gmachhh/eBook)** | Web project developed as part of my learning journey, focused on digital content and frontend development. | `HTML` `CSS` `JavaScript` | 🌐 Web Development • 🎨 UI • 📱 Responsive Design • 🔧 Git |
-
 
 ---
 ## 🎓 Education & Experience
@@ -80,7 +96,9 @@ My academic and professional experiences have given me practical exposure to:
 - 🗄️ SQL and MySQL
 - 🔧 Hardware and digital fabrication
 
-> **Building a strong foundation to become a Back-end Developer, with a focus on Java and continuous learning.** 🚀## 🎓 Education & Experience
+> **Building a strong foundation to become a Back-end Developer, with a focus on Java and continuous learning.** 🚀
+
+---
 
 ## 📚 Currently Learning
 
@@ -89,6 +107,7 @@ Java
  ├── Object-Oriented Programming
  ├── Data Structures
  ├── Algorithms
+ ├── Unit Testing (JUnit)
  └── Backend Development
 
 Python
@@ -107,3 +126,4 @@ Backend
  ├── SQL
  ├── MySQL
  └── Software Architecture
+```
