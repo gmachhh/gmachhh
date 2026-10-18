@@ -1,6 +1,6 @@
 # Hi, I'm Erick Machado 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://gmachhh.github.io/#skills)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://gmachhh.github.io/)
 
 I'm a **Back-end Developer in development**, focused on building practical solutions and continuously improving my skills through projects, courses, and hands-on experience.
 
